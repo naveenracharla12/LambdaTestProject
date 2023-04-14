@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-04-14T17:55:17 IST" name="Default suite" finished-at="2023-04-14T17:55:37 IST" duration-ms="19737">
+    <groups>
+    </groups>
+    <test started-at="2023-04-14T17:55:17 IST" name="Default test" finished-at="2023-04-14T17:55:37 IST" duration-ms="19737">
+      <class name="lambdatest.practice.Scenario_1_Windows_Chrome">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:lambdatest.practice.Scenario_1_Windows_Chrome@4fb3ee4e]" started-at="2023-04-14T17:55:17 IST" name="setUp" finished-at="2023-04-14T17:55:31 IST" duration-ms="14430" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="chromeWindowsTest()[pri:0, instance:lambdatest.practice.Scenario_1_Windows_Chrome@4fb3ee4e]" started-at="2023-04-14T17:55:32 IST" name="chromeWindowsTest" finished-at="2023-04-14T17:55:36 IST" duration-ms="4095" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- chromeWindowsTest -->
+        <test-method is-config="true" signature="endTest()[pri:0, instance:lambdatest.practice.Scenario_1_Windows_Chrome@4fb3ee4e]" started-at="2023-04-14T17:55:36 IST" name="endTest" finished-at="2023-04-14T17:55:37 IST" duration-ms="1154" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endTest -->
+      </class> <!-- lambdatest.practice.Scenario_1_Windows_Chrome -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
